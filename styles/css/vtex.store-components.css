@@ -22,3 +22,22 @@
 .infoCardContainer--vintage {
     background-color: #EDCFD1
 }
+
+.infoCardContainer--max-width {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.infoCardContainer--headline {
+    color: black;
+    font-weight: bold;
+}
+
+.infoCardContainer--headline :hover{
+    color: white;
+}
+
+.infoCardContainer--metal {
+    background-color: #E1E1E1
+}
