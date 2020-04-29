@@ -20,10 +20,6 @@
     border: transparent;
 }
 
-.infoCardContainer--vintage {
-    background-color: #EDCFD1;
-}
-
 .infoCardContainer {
     max-width: 1260px;
     margin: 0 auto;
@@ -31,10 +27,17 @@
     
 }
 
-.infoCardContainer :hover{
+.infoCardContainer :hover {
     background-color: white;
 }
 
-.infoCardContainer--metal {
-    background-color: #E1E1E1;
+.infoCardContainer--vintage {
+    background-color: #EDCFD1;
 }
+
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
+}
+
+
+
