@@ -25,7 +25,7 @@
 //coloana dreapta  
   "flex-layout.col#right": {
     "props": { 
-      "verticalAligh": "CENTER",
+      "verticalAlign": "middle",
       "preventVerticalStretch": true
     },
     "children": [
