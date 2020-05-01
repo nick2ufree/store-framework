@@ -65,7 +65,7 @@
           "props":{
             "initialSelection":"empty",
             "ShowValueForVariation":"all",
-            "showVariationsErrorMessage":"true",
+            //"showVariationsErrorMessage":"true",
             "showVariationsLabels": "true"
           }
         },
@@ -75,15 +75,7 @@
       "showSavings": true,
       "showListPrice": true
     }
-
-    
-
   }
-
-
-
-
-
 
 
 
